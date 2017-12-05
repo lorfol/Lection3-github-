@@ -10,6 +10,9 @@ namespace Lection3_github_
 	{
 		static void Main(string[] args)
 		{
+			Console.WriteLine();
+			Console.WriteLine();
+			Console.WriteLine();
 		}
 	}
 }
